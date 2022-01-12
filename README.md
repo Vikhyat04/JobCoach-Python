@@ -4,7 +4,7 @@
 
 In the present COVID era, many workers have lost their jobs and returned to their hometowns. To combat this problem, our group has come up with a project which helps immigrants secure a job and a sustainable livelihood. With its interactive interface, our platform enables users to view the jobs available with the help of their given skill set, age background and other factors.
 
-### INTRO
+### INTRODUCTION
 
 The objective is to make the process of immigration easier. With our application, we help eliminate all possible uncertainties about jobs available, recommend users possible cities to reside, and provide possible figures of salary in the particular region. To make this possible, we plan to gather information about the labourers’ age, education and skills and integrate these with the statistical findings. This way, the best options would be recommended and therefore, a wise and informed decision can be made by the user.
 
